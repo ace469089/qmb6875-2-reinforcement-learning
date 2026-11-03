@@ -73,7 +73,7 @@ The catch is in the right panel: it needed about **737,000 simulated weeks**, an
 ## How to run it
 
 ```bash
-git clone https://github.com/<your-username>/qmb6875-2-reinforcement-learning.git
+git clone https://github.com/ace469089/qmb6875-2-reinforcement-learning.git
 cd qmb6875-2-reinforcement-learning
 pip install -e . && pip install pytest
 

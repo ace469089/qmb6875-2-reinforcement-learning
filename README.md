@@ -15,6 +15,13 @@ It ends with the professor's capstone story: the gold trader whose optimal **con
 | **2. Reinforcement learning** (this repo) | the rules are unknown → learn by trying |
 | 3. `qmb6875-3-on-a-computer` | how to actually get the numbers out, and how to trust them |
 
+## ▶ Play it: *Train the Robot*
+
+Race a Thompson-sampling robot at picking ads, then watch Q-learning teach itself the 0.627 offer rule live.
+
+- **Live:** https://ace469089.github.io/qmb6875-2-reinforcement-learning/play/ (needs GitHub Pages turned on: Settings → Pages → Deploy from branch → `main` / root)
+- **Offline:** download [`play/index.html`](play/index.html) and open it in any browser. No install needed.
+
 ---
 
 ## Three problems, three results
